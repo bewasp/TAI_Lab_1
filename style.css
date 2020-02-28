@@ -1,3 +1,7 @@
 head {
     background: aqua;
 }
+
+body {
+    display: inline;
+}
