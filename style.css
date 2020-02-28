@@ -1,7 +1,7 @@
-head {
-    background: aqua;
+body {
+    background-color: aqua;
 }
 
-body {
+li {
     display: inline;
 }
