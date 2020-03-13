@@ -26,3 +26,9 @@ form {
     background-color: black;
     color: white;
 }
+
+.center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
